@@ -1,33 +1,13 @@
-<<<<<<< HEAD
-# Zeming-Zhao-RLGB-Final
+Zeming-Zhao-RLGB-Final
 Reproducibility code of "CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING"
 
-
 ###environment
 
-=======
-###Zeming-Zhao-RLGB-Final
-
-###Reproducibility code of "CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING"
-
-
-###environment
->>>>>>> 88423a2 (2023/1)
-windows10 
-python3.8
+windows10 python3.8
 
 ###requirements
-<<<<<<< HEAD
 
-=======
->>>>>>> 88423a2 (2023/1)
-gym
-pytorch
+gym pytorch
 
-### Usage
-<<<<<<< HEAD
-
+Usage
 python main.py
-=======
-python main.py
->>>>>>> 88423a2 (2023/1)
